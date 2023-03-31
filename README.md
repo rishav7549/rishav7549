@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/890f5c7081bbf01cdfb0812010132bb31a076ca323c4f232a9523fcd2a8bcfcd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6669742f632f3138342f3138342f312a495247486d69477361313673746564517649615a66772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav7549&label=Profile%20views&color=0e75b6&style=flat" alt="rishav7549" /> </p>
 
